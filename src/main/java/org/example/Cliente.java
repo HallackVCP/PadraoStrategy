@@ -1,6 +1,5 @@
 package org.example;
 
-import com.sun.org.apache.xpath.internal.operations.Bool;
 
 public class Cliente {
 
